@@ -1,5 +1,6 @@
 ConfigParser
 wheel
-wxPython==2.8
+#wxPython
+.\wxPython-3.0.2.0-cp27-none-win_amd64.whl
 PyOpenGL
 NumPy
