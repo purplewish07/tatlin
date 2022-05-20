@@ -1,4 +1,4 @@
-configparser
+ConfigParser
 wheel
 wxPython==2.8
 PyOpenGL
